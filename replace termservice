@@ -1,0 +1,5 @@
+stop the service running CMD as administrator
+net stop termservice
+Replace rdpwrap.ini in C:\Program Files\RDP Wrapper
+net start termservice
+Reboot your PC
